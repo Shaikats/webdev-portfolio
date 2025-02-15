@@ -25,8 +25,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shaikats&icon=9&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!-- Proudly created with GPRM
 
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
